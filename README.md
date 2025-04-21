@@ -24,7 +24,7 @@ npx serve
 
 Here's a demo of Grid Paint in action:
 
-![Grid Paint Demo](assets/demo.mp4)
+![Grid Paint Demo](assets/demo.gif)
 
 You can also test the live version of Grid Paint [here](https://waqas25.netlify.app/paint-tools/gridpaint/).
 
